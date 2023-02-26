@@ -1,4 +1,4 @@
-class CMCL < Formula
+class Cmcl < Formula
   desc "A Launcher for Minecraft Java Edition Running On The Console"
   homepage "https://github.com/MrShieh-X/console-minecraft-launcher"
   url "https://github.com/MrShieh-X/console-minecraft-launcher/releases/download/2.1/cmcl.tar.gz"
