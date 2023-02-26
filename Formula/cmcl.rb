@@ -5,7 +5,6 @@ class Cmcl < Formula
   sha256 "03dd85daf397344877d63e1e6ad6e7b143ddbdcd6b14ecfb3724412df6638265"
   version "2.1"
   license "GPL-3.0"
-  depends_on "openjdk@8"
   def install
     bin.install "cmcl"
   end
